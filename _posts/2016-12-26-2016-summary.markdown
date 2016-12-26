@@ -40,15 +40,19 @@ And this is just a beginning, hopefully we can keep learning, keep innovating an
 For some of you might interested in the books I found interesting and inspiring, here is list of them in different categories:
 
 *Computer Science*
+
 * <a target="_blank" href="https://www.amazon.com/gp/product/0735619670/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0735619670&linkCode=as2&tag=allabocol0a-20&linkId=1d38e7d43515d1e3f37908834e74ae51">Code Complete: A Practical Handbook of Software Construction, Second Edition</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=allabocol0a-20&l=am2&o=1&a=0735619670" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 * <a target="_blank" href="https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=allabocol0a-20&linkId=27611865abe50dae2d018a1c0ca1ae6a">Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=allabocol0a-20&l=am2&o=1&a=1449373321" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 * <a target="_blank" href="https://www.amazon.com/gp/product/149192912X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=149192912X&linkCode=as2&tag=allabocol0a-20&linkId=cc007b519efde571f2a07da71179fc8b">Site Reliability Engineering: How Google Runs Production Systems</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=allabocol0a-20&l=am2&o=1&a=149192912X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+
 *Business*
+
 * <a target="_blank" href="https://www.amazon.com/gp/product/1609613821/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1609613821&linkCode=as2&tag=allabocol0a-20&linkId=148503aaed012dc057ed2bd5b6c46ef0">Onward: How Starbucks Fought for Its Life without Losing Its Soul</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=allabocol0a-20&l=am2&o=1&a=1609613821" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 * <a target="_blank" href="https://www.amazon.com/gp/product/0143118242/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143118242&linkCode=as2&tag=allabocol0a-20&linkId=bbe0f1989904aa6e42dab0934c1487b5">Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=allabocol0a-20&l=am2&o=1&a=0143118242" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 *Fiction*
+
 * <a target="_blank" href="https://www.amazon.com/gp/product/0062060562/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062060562&linkCode=as2&tag=allabocol0a-20&linkId=1aa644bee59d5cb4165a066e262fa992">Before I Go to Sleep: A Novel</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=allabocol0a-20&l=am2&o=1&a=0062060562" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
