@@ -15,13 +15,13 @@ I visited Qinghai and Tibet in September, the journey includes a 2200KM road tri
 across China, it was so fun and inspiring that no words can really describe it. So let me try with a few photos.
 
 *Yamzhog Yumco*
-![lake]({{site.baseurl}}/assets/img/lake.jpg "Lake")
+![lake]({{site.github.url}}/assets/img/lake.jpg "Lake")
 
 *QingHai Lake*
-![qinghaihu]({{site.baseurl}}/assets/img/qinghaihu.jpg "QingHai Lake")
+![qinghaihu]({{site.github.url}}/assets/img/qinghaihu.jpg "QingHai Lake")
 
 *Potala Palace*
-![potala]({{site.baseurl}}/assets/img/potala_palace.jpg "Potala Palace")
+![potala]({{site.github.url}}/assets/img/potala_palace.jpg "Potala Palace")
 
 In terms of study and work, I have read some good books and tried lots of new things during 2016 that I really
 enjoyed and learnt a lot.
