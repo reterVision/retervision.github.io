@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "2016 Summary"
+date: 2016-12-26 10:00:00 -0700
+categories: summary
+---
+
+Hello, blog!
+
+It has been a long while since the last time I sat down and let feelings flow from mind to paper.
+
+2016 has been generally gorgeous so far, especially I moved from Singapore to Seattle in October and have not regretted the decision yet :-)
+
+I visited Qinghai and Tibet in September, the journey includes a 2200KM road trip, 48 hours travel by train and 3 flghts
+across China, it was so fun and inspiring that no words can really describe it. So let me try with a few photos.
+
+*Yamzhog Yumco*
+![lake]({{site.baseurl}}/assets/img/lake.jpg "Lake")
+
+*QingHai Lake*
+![qinghaihu]({{site.baseurl}}/assets/img/qinghaihu.jpg "QingHai Lake")
+
+*Potala Palace*
+![potala]({{site.baseurl}}/assets/img/potala_palace.jpg "Potala Palace")
+
+In terms of study and work, I have read some good books and tried lots of new things during 2016 that I really
+enjoyed and learnt a lot.
+
+I have spent most of this year building varies data services and streaming platform in [Grab](https://www.grab.com/sg/) and be honored to work with
+some of the most brilliant engineers I have ever met, we have managed to provide core data accesses to 90% of services in
+Grab with under 10 milliseconds latency averagely and stays reliable under **15000+** requests per second peak. The streaming
+platform we've built now produces hundreds of gigabytes of data per day and delivers billions of events to multiple
+subscribers in subsecond.
+
+And this is just a beginning, hopefully we can keep learning, keep innovating and keep growing in 2017.
+
+---
+
+For some of you might interested in the books I found interesting and inspiring, here is list of them in different categories:
+
+*Computer Science*
+* <a target="_blank" href="https://www.amazon.com/gp/product/0735619670/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0735619670&linkCode=as2&tag=allabocol0a-20&linkId=1d38e7d43515d1e3f37908834e74ae51">Code Complete: A Practical Handbook of Software Construction, Second Edition</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=allabocol0a-20&l=am2&o=1&a=0735619670" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* <a target="_blank" href="https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=allabocol0a-20&linkId=27611865abe50dae2d018a1c0ca1ae6a">Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=allabocol0a-20&l=am2&o=1&a=1449373321" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* <a target="_blank" href="https://www.amazon.com/gp/product/149192912X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=149192912X&linkCode=as2&tag=allabocol0a-20&linkId=cc007b519efde571f2a07da71179fc8b">Site Reliability Engineering: How Google Runs Production Systems</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=allabocol0a-20&l=am2&o=1&a=149192912X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+*Business*
+* <a target="_blank" href="https://www.amazon.com/gp/product/1609613821/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1609613821&linkCode=as2&tag=allabocol0a-20&linkId=148503aaed012dc057ed2bd5b6c46ef0">Onward: How Starbucks Fought for Its Life without Losing Its Soul</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=allabocol0a-20&l=am2&o=1&a=1609613821" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* <a target="_blank" href="https://www.amazon.com/gp/product/0143118242/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143118242&linkCode=as2&tag=allabocol0a-20&linkId=bbe0f1989904aa6e42dab0934c1487b5">Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=allabocol0a-20&l=am2&o=1&a=0143118242" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+*Fiction*
+* <a target="_blank" href="https://www.amazon.com/gp/product/0062060562/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062060562&linkCode=as2&tag=allabocol0a-20&linkId=1aa644bee59d5cb4165a066e262fa992">Before I Go to Sleep: A Novel</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=allabocol0a-20&l=am2&o=1&a=0062060562" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+---
+
+For those who find what we are doing in Grab interesting and want to explore more, we are actually hiring!
+
+* [Back Engineer Seattle](https://jobs.lever.co/grab/b6bf442a-b7f2-40d1-8078-49beb5c70e23?lever-via=yUD1l9SNEh)
+* [Back Engineer Singapore](https://jobs.lever.co/grab/5f2741fd-37dc-419f-89b6-3e91368b258e?lever-via=yUD1l9SNEh)
+* [Back Engineer Beijing](https://jobs.lever.co/grab/315571c4-5d9a-4e77-b521-f7ed6736bf56?lever-via=yUD1l9SNEh)
