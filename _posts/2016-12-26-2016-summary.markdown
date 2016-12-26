@@ -16,13 +16,13 @@ across China, it was so fun and inspiring that no words can really describe it. 
 
 
 *Yamzhog Yumco*
-![lake]({{site.github.url}}/assets/img/lake.jpg "Lake")
+![lake]({{site.github.url}}/assets/img/lake_20161226.jpg "Lake")
 
 *QingHai Lake*
-![qinghaihu]({{site.github.url}}/assets/img/qinghaihu.jpg "QingHai Lake")
+![qinghaihu]({{site.github.url}}/assets/img/qinghaihu_20161226.jpg "QingHai Lake")
 
 *Potala Palace*
-![potala]({{site.github.url}}/assets/img/potala_palace.jpg "Potala Palace")
+![potala]({{site.github.url}}/assets/img/potala_palace_20161226.jpg "Potala Palace")
 
 In terms of study and work, I have read some good books and tried lots of new things during 2016 that I really
 enjoyed and learnt a lot.
